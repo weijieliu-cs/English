@@ -1,0 +1,15 @@
+# Local recordings, downloaded materials and private learning records
+/recordings/
+/downloads/
+/personal/
+
+# Editor and operating system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Python cache if local helper scripts are added later
+__pycache__/
+*.py[cod]
